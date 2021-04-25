@@ -1,0 +1,1 @@
+/home/levigibson/.jdks/openjdk-16.0.1/bin/java -javaagent:/home/levigibson/Documents/static/idea-IC-211.6693.111/lib/idea_rt.jar=41679:/home/levigibson/Documents/static/idea-IC-211.6693.111/bin -Dfile.encoding=UTF-8 -classpath /home/levigibson/Pictures/python/java/chessTest2/out/production/chessTest2 com.levigibson.Main
